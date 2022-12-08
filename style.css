@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.maindiv{
+width: 25vw;
+height: 60vh;
+background-color: white;
+margin-top: 1rem;
+}
+img{
+    margin: 0 0 0 2rem;
+}
+p{
+    padding: 0.3rem;
+    margin-left: 1rem;
+}
+.A{
+    margin-top: 1rem;
+}
+.B{
+    color: gray;
+    font-weight: 600;
+}
